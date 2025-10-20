@@ -1,0 +1,125 @@
+{
+  "donations": [
+    {
+      "name": "UNRWA",
+      "category": "Humanitarian",
+      "link": "https://donate.unrwa.org/gaza/~my-donation",
+      "description": "The UN agency for Palestine Refugees, providing food, education, and shelter across Gaza.",
+      "logo_text": "UN",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/UN_emblem_blue.svg/1200px-UN_emblem_blue.svg.png"
+    },
+    {
+      "name": "Medical Aid for Palestinians (MAP)",
+      "category": "Health",
+      "link": "https://www.map.org.uk/donate/donation-details/248",
+      "description": "Provides emergency medical care, supplies, and long-term health services to Palestinians.",
+      "logo_text": "MAP",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN-TT3zOJNhAo_Ii89BkiWlO7pxeK5hIRFnwkLDw-bTw&s"
+    },
+    {
+      "name": "Islamic Relief Worldwide",
+      "category": "Humanitarian",
+      "link": "https://islamic-relief.org/appeals/palestine/",
+      "description": "Delivers urgent humanitarian assistance including food and medical aid to families in Gaza.",
+      "logo_text": "IR",
+      "url":"https://futureadvocacy.com/wp-content/uploads/2024/10/Background-6-e1727879553787.png"
+    },
+    {
+      "name": "Palestine Children's Relief Fund (PCRF)",
+      "category": "Children & Health",
+      "link": "https://www.pcrf.net/",
+      "description": "A non-political organization providing free medical care for sick and injured children.",
+      "logo_text": "PCRF",
+      "url":"https://www.pcrf.net/cached_uploads/full/og-default.jpg"
+    },
+    {
+      "name": "Doctors Without Borders (MSF)",
+      "category": "Health",
+      "link": "https://donate.doctorswithoutborders.org/secure/palestine-crisis-alert",
+      "description": "Offers impartial medical assistance in response to the humanitarian crisis in Palestine.",
+      "logo_text": "MSF",
+      "url":"https://cdn.asp.events/CLIENT_Reed_Bus_4F413D8D_5056_B739_5470E0888074347E/sites/NSL-2025/media/libraries/exhibitors/Medecins-Sans-Frontieres.png/fit-in/500x9999/filters:no_upscale()"
+    },
+    {
+      "name": "Anera",
+      "category": "Development",
+      "link": "https://www.anera.org/what-we-do/palestine/",
+      "description": "Focuses on long-term health, education, and economic development projects in Palestine.",
+      "logo_text": "Anera",
+      "url":"https://www.anera.org/wp-content/uploads/2019/02/anera_logo_retina_02.05.19.png"
+    },
+     {
+    "name": "UNICEF",
+    "category": "Children & Health",
+    "link": "https://www.unicef.org.uk/donate/children-in-gaza-crisis-appeal/",
+    "description": "A UN agency providing children and families in Gaza with life-saving essentials like food, water, medical care, and mental health support.",
+    "logo_text": "UNICEF",
+    "url":"https://upload.wikimedia.org/wikipedia/commons/f/fb/UNICEF_Logo_%28cropped%29.png"
+  },
+  {
+    "name": "International Committee of the Red Cross (ICRC)",
+    "category": "Humanitarian",
+    "link": "https://www.icrc.org/en/donate/israelgaza",
+    "description": "A neutral organization providing urgent medical care, supplies, and repairing essential services like water and sanitation in Israel and the Occupied Territories.",
+    "logo_text": "ICRC",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Emblem_of_the_ICRC.svg/654px-Emblem_of_the_ICRC.svg.png"
+    
+  },
+  {
+    "name": "World Food Programme (WFP)",
+    "category": "Humanitarian",
+    "link": "https://www.wfp.org/emergencies/palestine-emergency",
+    "description": "The UN's food-assistance branch, scaling up operations to provide emergency food, bread, and wheat flour to families in Gaza.",
+    "logo_text": "WFP",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/World_Food_Programme_Logo_Simple.svg/2020px-World_Food_Programme_Logo_Simple.svg.png"
+  },
+  {
+    "name": "Save the Children",
+    "category": "Children & Health",
+    "link": "https://www.savethechildren.org.uk/how-you-can-help/emergencies/gaza-crisis",
+    "description": "Delivers immediate life-saving aid, food, water, and medical care, as well as long-term psychological support and safe spaces for children in Gaza.",
+    "logo_text": "StC",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Save_the_Children_Logo.svg/2560px-Save_the_Children_Logo.svg.png"
+  },
+  {
+    "name": "International Rescue Committee (IRC)",
+    "category": "Humanitarian",
+    "link": "https://help.rescue-uk.org/donate-web",
+    "description": "Provides urgent care, food, shelter, and basic supplies to families fleeing conflict in crisis zones, including Gaza.",
+    "logo_text": "IRC",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/International_Rescue_Committee_Logo.svg/767px-International_Rescue_Committee_Logo.svg.png"
+  },
+   {
+   "name": "Oxfam",
+   "category": "Humanitarian",
+   "link": "https://www.oxfam.org.uk/oxfam-in-action/current-emergencies/how-to-help-gaza/",
+   "description": "Distributes food, clean water, sanitation, and hygiene kits, while also providing trauma counseling and cash assistance.",
+   "logo_text": "Oxfam",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_of_Oxfam_%28cropped%29.png"
+ },
+ {
+   "name": "CARE",
+   "category": "Humanitarian",
+   "link": "https://www.care.org.au/country/palestine/",
+   "description": "Provides direct humanitarian relief in Gaza, focusing on delivering vital aid, medical care, water, and food to displaced families.",
+   "logo_text": "CARE",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/CARE_Logo_Orange.png"
+ },
+ {
+   "name": "Palestine Red Crescent Society (PRCS)",
+   "category": "Health",
+   "link": "https://www.palestinercs.org/en/Donation",
+   "description": "The primary provider of emergency medical and ambulance services in Palestine, operating hospitals and health centers.",
+   "logo_text": "PRCS",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Palestine_Red_Crescent_Society_logo.svg/2171px-Palestine_Red_Crescent_Society_logo.svg.png"
+ },
+ {
+   "name": "Mercy Corps",
+   "category": "Humanitarian",
+   "link": "https://www.mercycorps.org/donate/ceasefire-gaza-donate-now",
+   "description": "Delivers lifesaving relief, emergency items, and cash assistance to help families in Gaza purchase essential supplies.",
+   "logo_text": "Mercy Corps",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Mercy_Corps_Logo.png/1061px-Mercy_Corps_Logo.png"
+ }
+  ]
+}
