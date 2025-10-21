@@ -12,7 +12,10 @@ document.addEventListener('DOMContentLoaded', () => {
             renderCategories();
             renderDonations();
         })
-        .catch(err => console.error('Error loading donations.json:', err));
+        .catch(err => {
+        console.error('Error loading donations.json:', err);
+        donationGrid.innerHTML = `<p class="text-center text-red-600 col-span-full text-lg">Could not load the list of organizations. Please check your connection and try again.</p>`;
+    });
     
     // Render category buttons dynamically
     function renderCategories() {
@@ -54,7 +57,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 <div class="p-6 flex-grow">
                     <div class="flex items-start justify-between mb-4">
                         <div class="w-16 h-16 bg-transparent rounded-full flex items-center justify-center font-extrabold text-2xl mr-4 flex-shrink-0">
-                            ${org.url ? `<img src="${org.url}" alt="${org.name} logo">` : org.logo_text}
+                            ${org.url ? `<img src="${org.url}" alt="${org.name} logo" loading="lazy">` : org.logo_text}
                         </div>
                         <span class="text-xs font-semibold py-1 px-3 rounded-full card-category">${org.category}</span>
                     </div>
