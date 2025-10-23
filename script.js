@@ -73,4 +73,32 @@ document.addEventListener('DOMContentLoaded', () => {
             donationGrid.appendChild(card);
         });
     }
+    // --- Modal Logic ---
+    const modal = document.getElementById('verification-modal');
+    const openBtn = document.getElementById('open-verification-modal');
+    const closeBtn = document.getElementById('close-verification-modal');
+    const closeBtnAlt = document.getElementById('close-verification-modal-button');
+
+    if (modal && openBtn && closeBtn && closeBtnAlt) {
+        const openModal = () => {
+            modal.classList.remove('hidden');
+            modal.classList.add('flex');
+        };
+
+        const closeModal = () => {
+            modal.classList.add('hidden');
+            modal.classList.remove('flex');
+        };
+
+        openBtn.addEventListener('click', openModal);
+        closeBtn.addEventListener('click', closeModal);
+        closeBtnAlt.addEventListener('click', closeModal);
+
+        // Optional: Close modal by clicking the background
+        modal.addEventListener('click', (e) => {
+            if (e.target === modal) {
+                closeModal();
+            }
+        });
+    }
 });
